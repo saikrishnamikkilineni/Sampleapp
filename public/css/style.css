@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
- background-image:url("../math.jpg")
+ background-image:url("../css/math.jpg")
   background-size: cover;
   background-attachment: fixed;
 }
